@@ -1,0 +1,6 @@
+{
+  "name": "创业与合伙抉择评估器",
+  "description": "多维度、科学量化的职业与投资抉择评估工具，支持权重调整、动态对比及HTML报告导出",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
